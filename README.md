@@ -1,1 +1,1 @@
-# JavaScript
+# Practicas TypeScript 
